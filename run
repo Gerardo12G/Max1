@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 
-export VERIFY_TOKEN='maxbot'
-export PAGE_ACCESS_TOKEN='EAAcO83vdtXABAMbxcdRM3tUIiuyQVr7uYRuw9TYOZB8K2cCaUWZA2FMebjTJ4hBZCkhMixPxqgTKNmKSJYnCM6ad1Y49l92inX7EmH9r6PbDnM0u3cUpdoxN5XsXbC3ZAMbDrlGj6X89YwWHHbKg1vIvndoMmUcjdEijuuc00z8lqqptpGvE'
+export VERIFY_TOKEN='prueba'
+export PAGE_ACCESS_TOKEN='EAAFg8AZCng2MBACiaMkyQfY8kwMygwDprx6GlPMsb8wwwBpv1ndiXMNwsB9Lf3ZArEfekClkKm6A5pU5BguKLvVerT0q7kxxAnRgFJcowLZBZAh5UAZA2ihlbZCNFnhocqwwwuzYbUpiheypsOR7iT0Lmbb2ok9IgZAD3dVrxKBXAZDZD'
 
 # Get started message
 curl -X POST -H "Content-Type: application/json" -d '{
